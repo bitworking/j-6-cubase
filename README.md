@@ -1,4 +1,4 @@
-# Roland JP-6 Chords
+# Roland J-6 Chords
 
 ## Chord Table
 
