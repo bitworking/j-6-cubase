@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chordpads>
+   <rootObjects>
+      <root name="chordpadsdata" ID="1089220384"/>
+      <root name="metadata" ID="1089224464"/>
+   </rootObjects>
+   <obj class="Attributes" ID="1089220384">
+      <int name="version" value="4"/>
+      <int name="padCount" value="12"/>
+      <int name="slotCount" value="2"/>
+      <int name="monitoring" value="1"/>
+      <float name="TriggerVelocity" value="0.8"/>
+      <int name="Mask1" value="1034"/>
+      <int name="Key1" value="0"/>
+      <int name="Bass1" value="0"/>
+      <int name="orgType1" value="0"/>
+      <int name="ALock1" value="1"/>
+      <int name="Locked1" value="1"/>
+      <int name="VIndex11" value="0"/>
+      <int name="TIndex11" value="0"/>
+      <string name="Notes11" value="C4;E4;B4;D5;" wide="true"/>
+      <int name="VIndex12" value="0"/>
+      <int name="TIndex12" value="0"/>
+      <string name="Notes12" value="C4;E4;B4;D5;" wide="true"/>
+      <int name="Mask2" value="292"/>
+      <int name="Key2" value="1"/>
+      <int name="Bass2" value="0"/>
+      <int name="orgType2" value="0"/>
+      <int name="ALock2" value="1"/>
+      <int name="Locked2" value="1"/>
+      <int name="VIndex21" value="0"/>
+      <int name="TIndex21" value="0"/>
+      <string name="Notes21" value="C#4;G4;A#4;E5;" wide="true"/>
+      <int name="VIndex22" value="0"/>
+      <int name="TIndex22" value="0"/>
+      <string name="Notes22" value="C#4;G4;A#4;E5;" wide="true"/>
+      <int name="Mask3" value="580"/>
+      <int name="Key3" value="2"/>
+      <int name="Bass3" value="0"/>
+      <int name="orgType3" value="0"/>
+      <int name="ALock3" value="1"/>
+      <int name="Locked3" value="1"/>
+      <int name="VIndex31" value="0"/>
+      <int name="TIndex31" value="0"/>
+      <string name="Notes31" value="D4;A4;C5;F5;" wide="true"/>
+      <int name="VIndex32" value="0"/>
+      <int name="TIndex32" value="0"/>
+      <string name="Notes32" value="D4;A4;C5;F5;" wide="true"/>
+      <int name="Mask4" value="388"/>
+      <int name="Key4" value="3"/>
+      <int name="Bass4" value="0"/>
+      <int name="orgType4" value="0"/>
+      <int name="ALock4" value="1"/>
+      <int name="Locked4" value="1"/>
+      <int name="VIndex41" value="0"/>
+      <int name="TIndex41" value="0"/>
+      <string name="Notes41" value="D#4;C5;F#5;B5;" wide="true"/>
+      <int name="VIndex42" value="0"/>
+      <int name="TIndex42" value="0"/>
+      <string name="Notes42" value="D#4;C5;F#5;B5;" wide="true"/>
+      <int name="Mask5" value="74"/>
+      <int name="Key5" value="0"/>
+      <int name="Bass5" value="0"/>
+      <int name="orgType5" value="0"/>
+      <int name="ALock5" value="1"/>
+      <int name="Locked5" value="1"/>
+      <int name="VIndex51" value="0"/>
+      <int name="TIndex51" value="0"/>
+      <string name="Notes51" value="E4;C5;D5;G5;" wide="true"/>
+      <int name="VIndex52" value="0"/>
+      <int name="TIndex52" value="0"/>
+      <string name="Notes52" value="E4;C5;D5;G5;" wide="true"/>
+      <int name="Mask6" value="1034"/>
+      <int name="Key6" value="5"/>
+      <int name="Bass6" value="0"/>
+      <int name="orgType6" value="0"/>
+      <int name="ALock6" value="1"/>
+      <int name="Locked6" value="1"/>
+      <int name="VIndex61" value="0"/>
+      <int name="TIndex61" value="0"/>
+      <string name="Notes61" value="F4;A4;E5;G5;" wide="true"/>
+      <int name="VIndex62" value="0"/>
+      <int name="TIndex62" value="0"/>
+      <string name="Notes62" value="F4;A4;E5;G5;" wide="true"/>
+      <int name="Mask7" value="292"/>
+      <int name="Key7" value="6"/>
+      <int name="Bass7" value="0"/>
+      <int name="orgType7" value="0"/>
+      <int name="ALock7" value="1"/>
+      <int name="Locked7" value="1"/>
+      <int name="VIndex71" value="0"/>
+      <int name="TIndex71" value="0"/>
+      <string name="Notes71" value="F#4;C5;D#5;A5;" wide="true"/>
+      <int name="VIndex72" value="0"/>
+      <int name="TIndex72" value="0"/>
+      <string name="Notes72" value="F#4;C5;D#5;A5;" wide="true"/>
+      <int name="Mask8" value="518"/>
+      <int name="Key8" value="7"/>
+      <int name="Bass8" value="0"/>
+      <int name="orgType8" value="0"/>
+      <int name="ALock8" value="1"/>
+      <int name="Locked8" value="1"/>
+      <int name="VIndex81" value="0"/>
+      <int name="TIndex81" value="0"/>
+      <string name="Notes81" value="G4;Bb4;F5;A5;" wide="true"/>
+      <int name="VIndex82" value="0"/>
+      <int name="TIndex82" value="0"/>
+      <string name="Notes82" value="G4;Bb4;F5;A5;" wide="true"/>
+      <int name="Mask9" value="265"/>
+      <int name="Key9" value="0"/>
+      <int name="Bass9" value="0"/>
+      <int name="orgType9" value="0"/>
+      <int name="ALock9" value="1"/>
+      <int name="Locked9" value="1"/>
+      <int name="VIndex91" value="0"/>
+      <int name="TIndex91" value="0"/>
+      <string name="Notes91" value="C4;Db5;E5;A5;" wide="true"/>
+      <int name="VIndex92" value="0"/>
+      <int name="TIndex92" value="0"/>
+      <string name="Notes92" value="C4;Db5;E5;A5;" wide="true"/>
+      <int name="Mask10" value="328"/>
+      <int name="Key10" value="5"/>
+      <int name="Bass10" value="0"/>
+      <int name="orgType10" value="0"/>
+      <int name="ALock10" value="1"/>
+      <int name="Locked10" value="1"/>
+      <int name="VIndex101" value="0"/>
+      <int name="TIndex101" value="0"/>
+      <string name="Notes101" value="F4;C5;D5;A5;" wide="true"/>
+      <int name="VIndex102" value="0"/>
+      <int name="TIndex102" value="0"/>
+      <string name="Notes102" value="F4;C5;D5;A5;" wide="true"/>
+      <int name="Mask11" value="1034"/>
+      <int name="Key11" value="10"/>
+      <int name="Bass11" value="0"/>
+      <int name="orgType11" value="0"/>
+      <int name="ALock11" value="1"/>
+      <int name="Locked11" value="1"/>
+      <int name="VIndex111" value="0"/>
+      <int name="TIndex111" value="0"/>
+      <string name="Notes111" value="Bb4;D5;A5;C6;" wide="true"/>
+      <int name="VIndex112" value="0"/>
+      <int name="TIndex112" value="0"/>
+      <string name="Notes112" value="Bb4;D5;A5;C6;" wide="true"/>
+      <int name="Mask12" value="265"/>
+      <int name="Key12" value="7"/>
+      <int name="Bass12" value="0"/>
+      <int name="orgType12" value="0"/>
+      <int name="ALock12" value="1"/>
+      <int name="Locked12" value="1"/>
+      <int name="VIndex121" value="0"/>
+      <int name="TIndex121" value="0"/>
+      <string name="Notes121" value="G3;Ab4;B4;E5;" wide="true"/>
+      <int name="VIndex122" value="0"/>
+      <int name="TIndex122" value="0"/>
+      <string name="Notes122" value="G3;Ab4;B4;E5;" wide="true"/>
+
+   </obj>
+   <obj class="Attributes" ID="1089224464">
+      <member name="Additional Attributes">
+         <string name="MediaType" value="ChordPads"/>
+      </member>
+   </obj>
+</chordpads>
